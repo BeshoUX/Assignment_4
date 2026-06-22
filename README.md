@@ -1,4 +1,4 @@
-sql```
+```sql
 USE assignment_4; 
 -- 1st Question
 SELECT C.company_name, AVG(I.price) AS 'Average Price' FROM items I
